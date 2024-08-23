@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714034921609",
+    "project_id": "othphone-cf5a4",
+    "storage_bucket": "othphone-cf5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714034921609:android:683fbc759b169c85038658",
+        "android_client_info": {
+          "package_name": "com.example.apibloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaDsTc0tQ5VM2nf5WdJV_BaDJ1Uq54jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714034921609:android:0755623c9ff08730038658",
+        "android_client_info": {
+          "package_name": "com.example.untitled8otpauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaDsTc0tQ5VM2nf5WdJV_BaDJ1Uq54jM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
